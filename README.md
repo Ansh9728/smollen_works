@@ -87,7 +87,3 @@ bash setup.sh
 ```
 This will install the required packages for the project.
 
-
-
-## License
-This project is licensed under the MIT License.
